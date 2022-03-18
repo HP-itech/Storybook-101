@@ -21,6 +21,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@storybook/addon-storysource": "^6.4.19",
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
