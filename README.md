@@ -6,10 +6,9 @@
 
    Install the necessary dependencies.
 
-    ```shell
     # Install the dependencies
     yarn
-    ``` 
+     
 
 1.  **Browse your stories!**
 Run `yarn storybook` to see your component's stories at `http://localhost:6006`
